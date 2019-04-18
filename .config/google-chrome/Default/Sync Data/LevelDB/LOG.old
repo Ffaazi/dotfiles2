@@ -1,0 +1,9 @@
+2019/04/03-17:05:14.184 7c6 Reusing MANIFEST /home/elvan/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/04/03-17:05:14.184 7c6 Recovering log #49
+2019/04/03-17:05:14.192 7c6 Reusing old log /home/elvan/.config/google-chrome/Default/Sync Data/LevelDB/000049.log 
+2019/04/03-17:05:18.117 934 Level-0 table #53: started
+2019/04/03-17:05:18.123 934 Level-0 table #53: 87650 bytes OK
+2019/04/03-17:05:18.130 934 Delete type=0 #49
+2019/04/03-18:19:47.695 934 Level-0 table #55: started
+2019/04/03-18:19:47.700 934 Level-0 table #55: 96185 bytes OK
+2019/04/03-18:19:47.702 934 Delete type=0 #52

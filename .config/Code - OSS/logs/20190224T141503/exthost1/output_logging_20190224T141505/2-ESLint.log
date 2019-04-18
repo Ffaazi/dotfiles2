@@ -1,0 +1,12 @@
+[Info  - 2:15:13 PM] ESLint server stopped.
+[Info  - 2:15:13 PM] ESLint server running in node v10.2.0
+[Info  - 2:15:13 PM] ESLint server is running.
+[Info  - 2:15:13 PM] 
+Failed to load the ESLint library for the document /home/elvan/projects/odinjs/scripts.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder odinjs
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder odinjs by executing the 'Disable ESLint' command.
+[Info  - 4:40:02 PM] ESLint server stopped.

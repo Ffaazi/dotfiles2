@@ -1,0 +1,64 @@
+[2019-03-26 16:48:37.144] [sharedprocess] [info] main {"machineId":"f2dbe287b4f4a4dc84720ff6f3998082f8eb6a80f700d7b282d6a5cdf1458bb7"}
+[2019-03-26 16:48:37.264] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 16:48:37.303] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 16:48:37.385] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-26 16:48:37.394] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-26 16:48:37.851] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 16:48:40.162] [sharedprocess] [info] Installing extension: ahmadawais.shades-of-purple
+[2019-03-26 16:48:40.164] [sharedprocess] [info] Installing extension: nimda.deepdark-material
+[2019-03-26 16:48:40.165] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2019-03-26 16:48:40.166] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2019-03-26 16:48:40.166] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2019-03-26 16:48:40.166] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2019-03-26 16:48:40.208] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 16:48:40.212] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 16:48:40.213] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 16:48:40.214] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 16:48:40.215] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 16:48:40.216] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 16:48:41.961] [sharedprocess] [info] Downloaded extension: nimda.deepdark-material /tmp/1de6f91c-2387-4634-9aa4-6030d78e7f0b
+[2019-03-26 16:48:41.983] [sharedprocess] [info] Extracted extension to /home/elvan/.vscode-oss/extensions/.nimda.deepdark-material-2.6.1: nimda.deepdark-material
+[2019-03-26 16:48:41.984] [sharedprocess] [info] Renamed to /home/elvan/.vscode-oss/extensions/nimda.deepdark-material-2.6.1
+[2019-03-26 16:48:41.984] [sharedprocess] [info] Installation completed. nimda.deepdark-material
+[2019-03-26 16:48:41.989] [sharedprocess] [info] Extensions installed successfully: nimda.deepdark-material
+[2019-03-26 16:48:42.794] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /tmp/cb80520d-a07a-4d62-91e6-8fe5a7070b41
+[2019-03-26 16:48:42.812] [sharedprocess] [info] Extracted extension to /home/elvan/.vscode-oss/extensions/.zhuangtongfa.material-theme-2.21.0: zhuangtongfa.material-theme
+[2019-03-26 16:48:42.813] [sharedprocess] [info] Renamed to /home/elvan/.vscode-oss/extensions/zhuangtongfa.material-theme-2.21.0
+[2019-03-26 16:48:42.813] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2019-03-26 16:48:42.817] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
+[2019-03-26 16:48:43.078] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /tmp/83259039-4742-45c3-8270-0f912bb13a61
+[2019-03-26 16:48:43.538] [sharedprocess] [info] Extracted extension to /home/elvan/.vscode-oss/extensions/.pkief.material-icon-theme-3.7.0: pkief.material-icon-theme
+[2019-03-26 16:48:43.538] [sharedprocess] [info] Renamed to /home/elvan/.vscode-oss/extensions/pkief.material-icon-theme-3.7.0
+[2019-03-26 16:48:43.539] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2019-03-26 16:48:43.545] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2019-03-26 16:48:43.970] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /tmp/34d0408c-132f-431b-a8a8-a035a08e3f18
+[2019-03-26 16:48:44.023] [sharedprocess] [info] Downloaded extension: vscodevim.vim /tmp/d2156dcb-8f14-4f05-89be-d9e4b82382c0
+[2019-03-26 16:48:45.515] [sharedprocess] [info] Downloaded extension: ahmadawais.shades-of-purple /tmp/01d636a0-d191-41de-a6f8-6ee189599a53
+[2019-03-26 16:48:45.699] [sharedprocess] [info] Extracted extension to /home/elvan/.vscode-oss/extensions/.ahmadawais.shades-of-purple-4.13.0: ahmadawais.shades-of-purple
+[2019-03-26 16:48:45.699] [sharedprocess] [info] Renamed to /home/elvan/.vscode-oss/extensions/ahmadawais.shades-of-purple-4.13.0
+[2019-03-26 16:48:45.700] [sharedprocess] [info] Installation completed. ahmadawais.shades-of-purple
+[2019-03-26 16:48:45.710] [sharedprocess] [info] Extensions installed successfully: ahmadawais.shades-of-purple
+[2019-03-26 16:48:45.751] [sharedprocess] [info] Extracted extension to /home/elvan/.vscode-oss/extensions/.vscode-icons-team.vscode-icons-8.4.0: vscode-icons-team.vscode-icons
+[2019-03-26 16:48:45.751] [sharedprocess] [info] Renamed to /home/elvan/.vscode-oss/extensions/vscode-icons-team.vscode-icons-8.4.0
+[2019-03-26 16:48:45.752] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2019-03-26 16:48:45.755] [sharedprocess] [info] Extracted extension to /home/elvan/.vscode-oss/extensions/.vscodevim.vim-1.2.0: vscodevim.vim
+[2019-03-26 16:48:45.755] [sharedprocess] [info] Renamed to /home/elvan/.vscode-oss/extensions/vscodevim.vim-1.2.0
+[2019-03-26 16:48:45.756] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2019-03-26 16:48:45.757] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2019-03-26 16:48:45.760] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2019-03-26 16:49:17.165] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-26 16:53:37.881] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 16:58:37.899] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:03:37.915] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:08:37.935] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:13:37.951] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:18:37.965] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:23:37.984] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:28:38.001] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:33:38.020] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:38:38.035] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:43:38.054] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:48:38.072] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:53:38.091] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 17:58:38.110] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-26 18:03:38.129] [sharedprocess] [info] Scanned user extensions: 12

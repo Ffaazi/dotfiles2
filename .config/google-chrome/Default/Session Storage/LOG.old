@@ -1,0 +1,27 @@
+2019/04/03-17:05:14.646 83a Reusing MANIFEST /home/elvan/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2019/04/03-17:05:14.646 83a Recovering log #152
+2019/04/03-17:05:14.647 83a Reusing old log /home/elvan/.config/google-chrome/Default/Session Storage/000152.log 
+2019/04/03-17:08:34.626 934 Level-0 table #156: started
+2019/04/03-17:08:34.630 934 Level-0 table #156: 19221 bytes OK
+2019/04/03-17:08:34.634 934 Delete type=0 #152
+2019/04/03-17:19:41.613 934 Level-0 table #158: started
+2019/04/03-17:19:41.617 934 Level-0 table #158: 18048 bytes OK
+2019/04/03-17:19:41.620 934 Delete type=0 #155
+2019/04/03-17:32:04.586 934 Level-0 table #160: started
+2019/04/03-17:32:04.591 934 Level-0 table #160: 22918 bytes OK
+2019/04/03-17:32:04.593 934 Delete type=0 #157
+2019/04/03-17:32:04.593 934 Compacting 4@0 + 1@1 files
+2019/04/03-17:32:04.599 934 Generated table #161@0: 2224 keys, 100442 bytes
+2019/04/03-17:32:04.599 934 Compacted 4@0 + 1@1 files => 100442 bytes
+2019/04/03-17:32:04.601 934 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/04/03-17:32:04.601 934 Delete type=2 #156
+2019/04/03-17:32:04.601 934 Delete type=2 #158
+2019/04/03-17:32:04.601 934 Delete type=2 #153
+2019/04/03-17:32:04.601 934 Delete type=2 #151
+2019/04/03-17:32:04.601 934 Delete type=2 #160
+2019/04/03-17:55:38.854 934 Level-0 table #163: started
+2019/04/03-17:55:38.858 934 Level-0 table #163: 18193 bytes OK
+2019/04/03-17:55:38.861 934 Delete type=0 #159
+2019/04/03-18:25:51.383 934 Level-0 table #165: started
+2019/04/03-18:25:51.386 934 Level-0 table #165: 18284 bytes OK
+2019/04/03-18:25:51.392 934 Delete type=0 #162

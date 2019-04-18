@@ -1,0 +1,26 @@
+[2019-02-23 11:28:16.083] [sharedprocess] [info] main {"machineId":"f2dbe287b4f4a4dc84720ff6f3998082f8eb6a80f700d7b282d6a5cdf1458bb7"}
+[2019-02-23 11:28:16.127] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:28:16.142] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:28:16.143] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:28:16.183] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-23 11:28:16.185] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-23 11:28:16.188] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-23 11:28:16.374] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:28:56.093] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-02-23 11:33:16.391] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:38:16.399] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:43:16.412] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:45:21.765] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:45:21.767] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:45:21.775] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:45:21.777] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:45:21.915] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-23 11:45:21.919] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-23 11:45:21.923] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-23 11:45:32.233] [sharedprocess] [info] Installing extension: xabikos.javascriptsnippets
+[2019-02-23 11:45:32.238] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-23 11:45:33.214] [sharedprocess] [info] Downloaded extension: xabikos.javascriptsnippets /tmp/b5c99868-3d01-4a0d-ab56-d2618e0ae573
+[2019-02-23 11:45:33.244] [sharedprocess] [info] Extracted extension to /home/elvan/.vscode-oss/extensions/.xabikos.javascriptsnippets-1.7.2: xabikos.javascriptsnippets
+[2019-02-23 11:45:33.244] [sharedprocess] [info] Renamed to /home/elvan/.vscode-oss/extensions/xabikos.javascriptsnippets-1.7.2
+[2019-02-23 11:45:33.245] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets
+[2019-02-23 11:45:33.249] [sharedprocess] [info] Extensions installed successfully: xabikos.javascriptsnippets

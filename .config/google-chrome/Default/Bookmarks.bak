@@ -1,0 +1,237 @@
+{
+   "checksum": "d29828cf0844518bae8db34100aeb0d7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13173769559786718",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13173769559787262"
+            },
+            "name": "Documentation for Visual Studio Code",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://code.visualstudio.com/docs?start=true"
+         }, {
+            "children": [ {
+               "date_added": "13195484791900331",
+               "id": "19",
+               "meta_info": {
+                  "last_visited_desktop": "13195484791900988"
+               },
+               "name": "Collection of Machine Learning + Trading Repos : algotrading",
+               "sync_transaction_version": "12",
+               "type": "url",
+               "url": "https://www.reddit.com/r/algotrading/comments/8t2fxv/collection_of_machine_learning_trading_repos/"
+            }, {
+               "date_added": "13195487094028960",
+               "id": "21",
+               "meta_info": {
+                  "last_visited_desktop": "13195487110176958"
+               },
+               "name": "About Gekko - Gekko",
+               "sync_transaction_version": "19",
+               "type": "url",
+               "url": "https://gekko.wizb.it/docs/introduction/about_gekko.html"
+            }, {
+               "date_added": "13198077695192135",
+               "id": "30",
+               "meta_info": {
+                  "last_visited_desktop": "13198077695192679"
+               },
+               "name": "Pattern Recognition in Stock Data",
+               "sync_transaction_version": "53",
+               "type": "url",
+               "url": "https://scholarship.claremont.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1100&context=hmc_theses"
+            }, {
+               "date_added": "13198081514178783",
+               "id": "31",
+               "meta_info": {
+                  "last_visited_desktop": "13198081514179400"
+               },
+               "name": "Pattern recognition applied to chart analysis. Evidence from intraday international stock markets",
+               "sync_transaction_version": "56",
+               "type": "url",
+               "url": "https://riunet.upv.es/bitstream/handle/10251/78837/MICHNIUK%20-%20PATTERN%20RECOGNITION%20APPLIED%20TO%20CHART%20ANALYSIS.%20EVIDENCE%20FROM%20INTRADAY%20INTERNATIONAL%20ST....pdf?sequence=1"
+            } ],
+            "date_added": "13195484808371980",
+            "date_modified": "13198081514178783",
+            "id": "20",
+            "name": "Trade",
+            "sync_transaction_version": "13",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13197132079582447",
+               "id": "23",
+               "meta_info": {
+                  "last_visited_desktop": "13197629268137429"
+               },
+               "name": "adi1090x/polybar-themes: A collection of polybar themes/configs with different styles, colors and variants",
+               "sync_transaction_version": "44",
+               "type": "url",
+               "url": "https://github.com/adi1090x/polybar-themes"
+            }, {
+               "date_added": "13197628300832431",
+               "id": "26",
+               "meta_info": {
+                  "last_visited_desktop": "13197628300832790"
+               },
+               "name": "DotShare.it",
+               "sync_transaction_version": "37",
+               "type": "url",
+               "url": "http://dotshare.it/category/wms/i3/"
+            }, {
+               "date_added": "13197756982609035",
+               "id": "28",
+               "meta_info": {
+                  "last_visited_desktop": "13197756982609639"
+               },
+               "name": "[i3-gaps] Hello December : unixporn",
+               "sync_transaction_version": "48",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/a4phmj/i3gaps_hello_december/"
+            } ],
+            "date_added": "13197132104399430",
+            "date_modified": "13198077695192135",
+            "id": "24",
+            "name": "Rice",
+            "sync_transaction_version": "26",
+            "type": "folder"
+         } ],
+         "date_added": "13195032744938375",
+         "date_modified": "13173769559786718",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13195032744938380",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "56",
+      "synced": {
+         "children": [ {
+            "date_added": "13149519711171305",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13149519711182645"
+            },
+            "name": "The most popular ideas in the sharing economy | JustPark",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.justpark.com/creative/sharing-economy-index/"
+         }, {
+            "date_added": "13156349866954821",
+            "id": "6",
+            "meta_info": {
+               "last_visited": "13156349866961108"
+            },
+            "name": "FoodTruckr | How to Start and Run a Successful Food Truck Business",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://foodtruckr.com/"
+         }, {
+            "date_added": "13173052676183873",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13173052706197618"
+            },
+            "name": "GitHub - danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/danistefanovic/build-your-own-x"
+         }, {
+            "date_added": "13173052685063468",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13173052715462961"
+            },
+            "name": "GitHub - tuvtran/project-based-learning: Curated list of project-based tutorials",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/tuvtran/project-based-learning"
+         }, {
+            "date_added": "13173052728631865",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13173052728636365"
+            },
+            "name": "GitHub - rby90/Project-Based-Tutorials-in-C: A curated list of project-based tutorials in C",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/rby90/Project-Based-Tutorials-in-C"
+         }, {
+            "date_added": "13173976003248561",
+            "id": "10",
+            "meta_info": {
+               "last_visited": "13173976003249933"
+            },
+            "name": "20 Things to do After Installing Ubuntu 18.04 Bionic Beaver | It's FOSS",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.nl/amp/s/itsfoss.com/things-to-do-after-installing-ubuntu-18-04/amp/"
+         }, {
+            "date_added": "13176206901518620",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13176206901521444"
+            },
+            "name": "Install Linux on GS73VR 6RF Stealth Pro (Tutorial)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://forum-en.msi.com/index.php?topic=292505.0"
+         }, {
+            "date_added": "13188945236195149",
+            "id": "12",
+            "meta_info": {
+               "last_visited": "13188945236197414"
+            },
+            "name": "Online Python Course from MIT",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://learn.edx.org/topic-html/?utm_medium=paid-social&utm_source=reddit&utm_campaign=rdt-uk-subject-html-subrdt&utm_content=rdt-uk-subject-html-subrdt-partner-image"
+         }, {
+            "date_added": "13189198358629611",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13189198358633151"
+            },
+            "name": "Automate the Boring Stuff with Python",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://automatetheboringstuff.com/"
+         }, {
+            "date_added": "13189427678958355",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13189427678960329"
+            },
+            "name": "Willpower Doesn’t Work. Here’s the Key to Being More Productive According to Neuroscience.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/the-mission/willpower-doesnt-work-here-s-the-key-to-being-more-productive-according-to-neuroscience-f6c4257eb6b9"
+         }, {
+            "date_added": "13189620902019214",
+            "id": "15",
+            "meta_info": {
+               "last_visited": "13189620902027821"
+            },
+            "name": "52 of the Best True-Crime Podcasts",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.vulture.com/article/52-best-true-crime-podcasts.html"
+         } ],
+         "date_added": "13195032744938380",
+         "date_modified": "13195484791900331",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

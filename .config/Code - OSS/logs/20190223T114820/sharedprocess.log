@@ -1,0 +1,21 @@
+[2019-02-23 11:48:23.805] [sharedprocess] [info] main {"machineId":"f2dbe287b4f4a4dc84720ff6f3998082f8eb6a80f700d7b282d6a5cdf1458bb7"}
+[2019-02-23 11:48:23.842] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-23 11:48:23.856] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-23 11:48:23.881] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-23 11:48:23.884] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-23 11:48:24.224] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-23 11:48:30.372] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-23 11:48:30.373] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-23 11:48:30.374] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-23 11:48:30.375] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-23 11:48:30.423] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-23 11:48:30.427] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-23 11:48:30.431] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-23 11:48:39.604] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2019-02-23 11:48:39.610] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-23 11:48:42.737] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/b9e9be8a-5f51-4c89-8dd3-0d373b5e118b
+[2019-02-23 11:48:42.973] [sharedprocess] [info] Extracted extension to /home/elvan/.vscode-oss/extensions/.dbaeumer.vscode-eslint-1.8.0: dbaeumer.vscode-eslint
+[2019-02-23 11:48:42.973] [sharedprocess] [info] Renamed to /home/elvan/.vscode-oss/extensions/dbaeumer.vscode-eslint-1.8.0
+[2019-02-23 11:48:42.975] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2019-02-23 11:48:42.981] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2019-02-23 11:49:03.815] [sharedprocess] [info] Starting to clean up unused language packs.

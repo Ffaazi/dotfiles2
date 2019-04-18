@@ -1,0 +1,474 @@
+[2019-02-23 11:49:12.059] [renderer1] [info] no standard startup: not running latest version
+[2019-02-23 11:55:25.025] [renderer1] [error] Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}: Error: Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}
+    at e.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:985)
+    at e.getNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:628)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:286
+    at Array.map (<anonymous>)
+    at i.e.setSelection (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:255)
+    at t.onFocus (file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:277)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:105
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:730
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:899
+    at Array.forEach (<anonymous>)
+    at e.bufferEvents (file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:872)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1012:251
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:312)
+    at e.splice (file:///usr/lib/code/out/vs/workbench/workbench.main.js:90:602)
+    at e.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:97:769)
+    at i.t.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1024:345)
+    at t.refreshPanel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4891:34)
+    at t.onDidChangeModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4896:754)
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:332)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:14
+[2019-02-23 13:04:24.541] [renderer1] [error] Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}: Error: Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}
+    at e.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:985)
+    at e.getNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:628)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:286
+    at Array.map (<anonymous>)
+    at i.e.setSelection (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:255)
+    at t.onFocus (file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:277)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:105
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:730
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:899
+    at Array.forEach (<anonymous>)
+    at e.bufferEvents (file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:872)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1012:251
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:312)
+    at e.splice (file:///usr/lib/code/out/vs/workbench/workbench.main.js:90:602)
+    at e.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:97:769)
+    at i.t.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1024:345)
+    at t.refreshPanel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4891:34)
+    at t.onDidChangeModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4896:754)
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:332)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:14
+[2019-02-23 13:06:42.039] [renderer1] [error] Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}: Error: Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}
+    at e.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:985)
+    at e.getNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:628)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:286
+    at Array.map (<anonymous>)
+    at i.e.setSelection (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:255)
+    at t.onFocus (file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:277)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:105
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:730
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:899
+    at Array.forEach (<anonymous>)
+    at e.bufferEvents (file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:872)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1012:251
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:312)
+    at e.splice (file:///usr/lib/code/out/vs/workbench/workbench.main.js:90:602)
+    at e.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:97:769)
+    at i.t.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1024:345)
+    at t.refreshPanel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4891:34)
+    at t.onDidChangeModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4896:754)
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:332)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:14
+[2019-02-23 13:07:12.214] [renderer1] [error] Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}: Error: Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}
+    at e.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:985)
+    at e.getNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:628)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:286
+    at Array.map (<anonymous>)
+    at i.e.setSelection (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:255)
+    at t.onFocus (file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:277)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:105
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:730
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:899
+    at Array.forEach (<anonymous>)
+    at e.bufferEvents (file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:872)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1012:251
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:312)
+    at e.splice (file:///usr/lib/code/out/vs/workbench/workbench.main.js:90:602)
+    at e.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:97:769)
+    at i.t.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1024:345)
+    at t.refreshPanel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4891:34)
+    at t.onDidChangeModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4896:754)
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:332)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:14
+[2019-02-23 13:07:18.224] [renderer1] [error] Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}: Error: Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}
+    at e.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:985)
+    at e.getNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:628)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:286
+    at Array.map (<anonymous>)
+    at i.e.setSelection (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:255)
+    at t.onFocus (file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:277)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:105
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:730
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:899
+    at Array.forEach (<anonymous>)
+    at e.bufferEvents (file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:872)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1012:251
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:312)
+    at e.splice (file:///usr/lib/code/out/vs/workbench/workbench.main.js:90:602)
+    at e.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:97:769)
+    at i.t.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1024:345)
+    at t.refreshPanel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4891:34)
+    at t.onDidChangeModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4896:754)
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:332)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:14
+[2019-02-23 13:08:02.208] [renderer1] [error] Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}: Error: Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}
+    at e.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:985)
+    at e.getNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:628)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:286
+    at Array.map (<anonymous>)
+    at i.e.setSelection (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:255)
+    at t.onFocus (file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:277)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:105
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:730
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:899
+    at Array.forEach (<anonymous>)
+    at e.bufferEvents (file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:872)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1012:251
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:312)
+    at e.splice (file:///usr/lib/code/out/vs/workbench/workbench.main.js:90:602)
+    at e.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:97:769)
+    at i.t.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1024:345)
+    at t.refreshPanel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4891:34)
+    at t.onDidChangeModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4896:754)
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:332)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:14
+[2019-02-23 13:09:42.238] [renderer1] [error] Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}: Error: Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}
+    at e.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:985)
+    at e.getNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:628)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:286
+    at Array.map (<anonymous>)
+    at i.e.setSelection (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:255)
+    at t.onFocus (file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:277)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:105
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:730
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:899
+    at Array.forEach (<anonymous>)
+    at e.bufferEvents (file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:872)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1012:251
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:312)
+    at e.splice (file:///usr/lib/code/out/vs/workbench/workbench.main.js:90:602)
+    at e.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:97:769)
+    at i.t.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1024:345)
+    at t.refreshPanel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4891:34)
+    at t.onDidChangeModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4896:754)
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:332)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:14
+[2019-02-23 13:10:49.142] [renderer1] [error] Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}: Error: Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}
+    at e.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:985)
+    at e.getNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:628)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:286
+    at Array.map (<anonymous>)
+    at i.e.setSelection (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:255)
+    at t.onFocus (file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:277)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:105
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:730
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:899
+    at Array.forEach (<anonymous>)
+    at e.bufferEvents (file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:872)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1012:251
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:312)
+    at e.splice (file:///usr/lib/code/out/vs/workbench/workbench.main.js:90:602)
+    at e.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:97:769)
+    at i.t.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1024:345)
+    at t.refreshPanel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4891:34)
+    at t.onDidChangeModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4896:754)
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:332)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:14
+[2019-02-23 13:12:33.544] [renderer1] [error] Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}: Error: Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}
+    at e.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:985)
+    at e.getNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:628)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:286
+    at Array.map (<anonymous>)
+    at i.e.setSelection (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:255)
+    at t.onFocus (file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:277)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:105
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:730
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:899
+    at Array.forEach (<anonymous>)
+    at e.bufferEvents (file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:872)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1012:251
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:312)
+    at e.splice (file:///usr/lib/code/out/vs/workbench/workbench.main.js:90:602)
+    at e.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:97:769)
+    at i.t.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1024:345)
+    at t.refreshPanel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4891:34)
+    at t.onDidChangeModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4896:754)
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:332)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:14
+[2019-02-23 13:25:02.871] [renderer1] [error] Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}: Error: Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}
+    at e.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:985)
+    at e.getNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:628)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:286
+    at Array.map (<anonymous>)
+    at i.e.setSelection (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:255)
+    at t.onFocus (file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:277)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:105
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:730
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:899
+    at Array.forEach (<anonymous>)
+    at e.bufferEvents (file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:872)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1012:251
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:312)
+    at e.splice (file:///usr/lib/code/out/vs/workbench/workbench.main.js:90:602)
+    at e.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:97:769)
+    at i.t.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1024:345)
+    at t.refreshPanel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4891:34)
+    at t.onDidChangeModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4896:754)
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:332)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:14
+[2019-02-23 13:26:28.181] [renderer1] [error] Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}: Error: Tree element not found: {
+	"resource": "/home/elvan/projects/odinjs/scripts.js",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 21,
+	"endLineNumber": 1,
+	"endColumn": 22
+}
+    at e.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:985)
+    at e.getNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:99:628)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:286
+    at Array.map (<anonymous>)
+    at i.e.setSelection (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1018:255)
+    at t.onFocus (file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:277)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:2410:105
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:730
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:899
+    at Array.forEach (<anonymous>)
+    at e.bufferEvents (file:///usr/lib/code/out/vs/workbench/workbench.main.js:83:872)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:1012:251
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:312)
+    at e.splice (file:///usr/lib/code/out/vs/workbench/workbench.main.js:90:602)
+    at e.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:97:769)
+    at i.t.setChildren (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1024:345)
+    at t.refreshPanel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4891:34)
+    at t.onDidChangeModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4896:754)
+    at e.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:81:332)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:14

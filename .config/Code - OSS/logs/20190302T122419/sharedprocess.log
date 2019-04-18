@@ -1,0 +1,26 @@
+[2019-03-02 12:24:22.925] [sharedprocess] [info] main {"machineId":"f2dbe287b4f4a4dc84720ff6f3998082f8eb6a80f700d7b282d6a5cdf1458bb7"}
+[2019-03-02 12:24:22.967] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-02 12:24:22.997] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-02 12:24:22.997] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-02 12:24:22.998] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-02 12:24:23.057] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-02 12:24:23.058] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-02 12:24:23.061] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-02 12:24:23.065] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-02 12:24:23.435] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-02 12:24:25.526] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2019-03-02 12:24:25.527] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2019-03-02 12:24:25.535] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-02 12:24:25.542] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-02 12:24:36.678] [sharedprocess] [info] Downloaded extension: msjsdiag.debugger-for-chrome /tmp/347c906a-1454-4629-b4ac-755d61430564
+[2019-03-02 12:24:36.934] [sharedprocess] [info] Downloaded extension: vscodevim.vim /tmp/37ed995d-1108-47e3-a1c3-5d9f8b280891
+[2019-03-02 12:24:38.081] [sharedprocess] [info] Extracted extension to /home/elvan/.vscode-oss/extensions/.msjsdiag.debugger-for-chrome-4.11.3: msjsdiag.debugger-for-chrome
+[2019-03-02 12:24:38.081] [sharedprocess] [info] Renamed to /home/elvan/.vscode-oss/extensions/msjsdiag.debugger-for-chrome-4.11.3
+[2019-03-02 12:24:38.084] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2019-03-02 12:24:38.099] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2019-03-02 12:24:39.314] [sharedprocess] [info] Extracted extension to /home/elvan/.vscode-oss/extensions/.vscodevim.vim-1.1.0: vscodevim.vim
+[2019-03-02 12:24:39.314] [sharedprocess] [info] Renamed to /home/elvan/.vscode-oss/extensions/vscodevim.vim-1.1.0
+[2019-03-02 12:24:39.315] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2019-03-02 12:24:39.323] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2019-03-02 12:25:02.934] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-02 12:29:23.446] [sharedprocess] [info] Scanned user extensions: 4

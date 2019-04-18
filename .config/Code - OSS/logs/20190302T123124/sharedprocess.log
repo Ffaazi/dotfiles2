@@ -1,0 +1,8 @@
+[2019-03-02 12:31:28.030] [sharedprocess] [info] main {"machineId":"f2dbe287b4f4a4dc84720ff6f3998082f8eb6a80f700d7b282d6a5cdf1458bb7"}
+[2019-03-02 12:31:28.102] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-02 12:31:28.115] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-02 12:31:28.428] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-02 12:31:28.438] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-02 12:31:28.439] [sharedprocess] [info] Deleted from disk msjsdiag.debugger-for-chrome /home/elvan/.vscode-oss/extensions/msjsdiag.debugger-for-chrome-4.11.2
+[2019-03-02 12:31:28.442] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-02 12:31:28.449] [sharedprocess] [info] Deleted from disk vscodevim.vim /home/elvan/.vscode-oss/extensions/vscodevim.vim-1.0.8

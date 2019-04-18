@@ -1,0 +1,24 @@
+[2019-02-23 11:49:09.975] [exthost] [info] extension host started
+[2019-02-23 11:49:10.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-23 11:49:10.002] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-02-23 11:49:10.005] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-23 11:49:10.005] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2019-02-23 11:49:10.021] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-23 11:49:10.021] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2019-02-23 11:49:10.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-23 11:49:10.128] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-02-23 11:49:10.133] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-02-23 11:49:10.133] [exthost] [info] ExtensionService#loadCommonJSModule /home/elvan/.vscode-oss/extensions/dbaeumer.vscode-eslint-1.8.0/client/out/extension
+[2019-02-23 11:49:10.178] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2019-02-23 11:49:10.178] [exthost] [info] ExtensionService#loadCommonJSModule /home/elvan/.vscode-oss/extensions/vscodevim.vim-1.0.8/out/extension
+[2019-02-23 11:49:10.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-02-23 11:49:10.472] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/html-language-features/client/dist/htmlMain
+[2019-02-23 11:49:10.524] [exthost] [info] eager extensions activated
+[2019-02-23 11:49:21.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-02-23 11:49:21.211] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/css-language-features/client/dist/cssMain
+[2019-02-23 11:49:23.036] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-02-23 11:49:23.036] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/extension-editing/dist/extension
+[2019-02-23 11:49:23.091] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-02-23 11:49:23.091] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/markdown-language-features/dist/extension
+[2019-02-23 11:49:23.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-02-23 11:49:23.498] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/typescript-language-features/dist/extension
